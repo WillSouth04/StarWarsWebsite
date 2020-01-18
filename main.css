@@ -1,0 +1,10 @@
+div.jumbotron {padding-top:0;}
+
+.btn-primary{
+background-color: #ac4e00;
+border: 5px solid #d82b0b;}
+ .btn-primary:hover {
+background-color: #d82b0b;
+border: 5px solid #ac4e00;}
+
+/* comment */
